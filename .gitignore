@@ -1,3 +1,13 @@
+# Personal or sensitive
+requirements_catena.yml
+requirements_mac.yml
+src/mydevs.py
+data/gina/*.*
+data/gina
+GDCdata/
+*.tsv
+*.rda
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
